@@ -1,8 +1,7 @@
 <xrType xrFeature="field-of-view">MixedReality
             <xrInteractiveLevel>passive</xrInteractiveLevel>
     <PoI PoIID="qrco.de/bbM0MF"></PoI>
-    <cognitive>
-        <recognitionData>https://raw.githubusercontent.com/db3ar/XR-CORE/master/README.md</recognitionData>
+    <cognitive>        <recognitionData>https://raw.githubusercontent.com/db3ar/XR-CORE/master/README.md</recognitionData>
     </cognitive>
     <creation dc.identifier="http://id.loc.gov/authorities/subjects/sh2010014466">    
             <datacite.Creator>XR CORE Team</datacite.Creator>
@@ -17,8 +16,8 @@
             <descriptionSubject>Mixed reality</descriptionSubject>
             <descriptionGeoLocation>2215680</descriptionGeoLocation>
     </description>
-    <usage usagePurpose="Academic">
-            <usageAudience>Adult</usageAudience>
+    <usage usageAudience="Adult">
+            <usagePurpose>Academic</usagePurpose>
             <usageSoftware>XR usage software</usageSoftware>
             <usageMediation>Mixed Reality HMD</usageMediation>
     </usage>
