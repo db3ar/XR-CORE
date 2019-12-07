@@ -2,7 +2,7 @@
             <xrInteractiveLevel>passive</xrInteractiveLevel>
     <PoI PoIID="qrco.de/bbM0MF"></PoI>
     <cognitive>
-        <recognitionData>https://github.com/db3ar/XR-CORE/edit/master/README.md</recognitionData>
+        <recognitionData>https://raw.githubusercontent.com/db3ar/XR-CORE/master/README.md</recognitionData>
     </cognitive>
     <creation dc.identifier="http://id.loc.gov/authorities/subjects/sh2010014466">    
             <datacite.Creator>XR CORE Team</datacite.Creator>
